@@ -3,10 +3,10 @@
     "description": "Xwom-Yii2的doctohtml扩展",
     "support": {
         "issues": "https://github.com/jinowom/doctohtml/issues",
-        "source": "https://github.com/jinowom/doctohtml""
+        "source": "https://github.com/jinowom/doctohtml"
     },
     "type": "yii2-extension",
-    "keywords": ["yii2","doctohtml"","Xwom"],
+    "keywords": ["yii2","doctohtml","Xwom"],
     "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
