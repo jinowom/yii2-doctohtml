@@ -1,4 +1,10 @@
 # yii2-doctohtml
+#### 1、
+------------
+
+
+####2、
+------------
 
 #### Installation
 
@@ -19,3 +25,5 @@ and add this to require :
 ```
 composer require --prefer-dist jinowom/yii2-doctohtml
 ```
+Configuration:
+```php

@@ -38,3 +38,7 @@ phpunit.phar
 
 # composer.lock 文件
 composer.lock
+
+# .sh文件
+run.sh
+prepare.sh
